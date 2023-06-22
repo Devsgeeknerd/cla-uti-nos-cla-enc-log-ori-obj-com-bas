@@ -1,7 +1,8 @@
 <!-- Título -->
 # Utilizando as Nossas Classes
 
-[Animal.](Animal.java)
+1. [Animal.](Animal.java)
+2. [Programa.](Programa.java)
 
 <!-- Informações -->
 ## &#8505; Informações
